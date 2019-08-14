@@ -1,0 +1,19 @@
+{
+  "name": "telegram-youtube2mp3-bot",
+  "version": "1.0.0",
+  "description": "Simple telegram bot meant to transform youtube videos into mp3 files.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanpastu/Telegram-Youtube2mp3-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romanpastu/Telegram-Youtube2mp3-Bot/issues"
+  },
+  "homepage": "https://github.com/romanpastu/Telegram-Youtube2mp3-Bot#readme"
+}
